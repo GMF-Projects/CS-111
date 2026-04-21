@@ -4,3 +4,6 @@ Code is saved following this structure:
 - Test1.2 --> mod of Test1
 - Test1.2.1 --> small mod of the Test1.2
 - Test2 --> major modificaton or different test
+- ETC...
+
+(Leave dubble dir because arduino is kinda stupid with dir sometimes)
