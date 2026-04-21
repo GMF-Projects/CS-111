@@ -1,4 +1,4 @@
-Code is saved by major modification following this structure:
+Code is saved following this structure:
 
 - Test1 --> fist test
 - Test1.2 --> mod of Test1
